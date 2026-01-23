@@ -1,2 +1,94 @@
-
+{
+  "meta": {
+    "lang": "fr",
+    "htmlLang": "fr",
+    "title": "Le Coffre d’Analyses — Accès à vie",
+    "description": "Accès complet à toutes les documentations de la chaîne. Un achat. Accès à vie. Les faits derrière les gros titres."
+  },
+  "checkoutUrl": "https://SEU-CHECKOUT-FR.com",
+  "countdown": { "hours": 2, "endText": "TERMINÉ" },
+  "brand": { "name": "Le Coffre d’Analyses" },
+  "top": {
+    "social": "<strong>+1 200</strong> investisseurs ont déjà accès",
+    "ctaMini": "Obtenir l’accès"
+  },
+  "hero": {
+    "kickerChip": "Achat unique • Accès à vie",
+    "kickerMuted": "Sans abonnement • Sans upsell",
+    "h1": "Les faits derrière les gros titres.",
+    "lead": "Accès complet aux documentations : lithium, Venezuela, argent, Chine, dollar. Données, sources et connexions — sans panique, sans astuces."
+  },
+  "urgency": {
+    "badge": "OFFRE ACTIVE",
+    "copy": "Le prix promo se termine dans",
+    "hint": "Ensuite, retour au prix normal."
+  },
+  "trust": {
+    "pay": "Paiement 100% sécurisé",
+    "access": "Accès immédiat",
+    "pdf": "PDF sur tous les appareils"
+  },
+  "price": {
+    "today": "Votre prix aujourd’hui",
+    "total": "Valeur totale",
+    "guarantee": "Garantie (jours)",
+    "totalLabel": "Valeur totale",
+    "nowLabel": "Votre prix",
+    "micro": "Garantie 7 jours satisfait ou remboursé."
+  },
+  "cta": {
+    "primary": "Obtenir l’accès à vie maintenant",
+    "secondary": "Accès à vie pour 25 €",
+    "tertiary": "Entrer dans le Coffre",
+    "afterTesti": "Accès à vie pour 25 €",
+    "guaranteeCta": "Tester sans risque",
+    "final": "Obtenir maintenant"
+  },
+  "card": {
+    "title": "Tout ce que vous recevez (maintenant + ensuite)",
+    "subtitle": "7 documentations + mises à jour futures automatiques"
+  },
+  "receive": {
+    "item1": "<strong>NOUVEAU :</strong> Analyse du lithium — 329 millions de tonnes au Canada — 19 €",
+    "item2": "Dossier Venezuela — Le playbook du changement de régime — 19 €",
+    "item3": "Analyse de l’argent — Pourquoi les stocks disparaissent — 19 €",
+    "item4": "Chronologie Chine-Dollar — Plan sur 24 mois — 19 €",
+    "item5": "Scénarios du dollar — Que se passe-t-il à −10/−20/−30% ? — 19 €",
+    "item6": "Analyse de l’effondrement économique — Les 5 piliers — 19 €",
+    "item7": "Guide de diversification — Considérations pratiques — 19 €",
+    "future": "<strong>Toutes les futures documentations</strong> — inestimable"
+  },
+  "why": {
+    "title": "Pourquoi ça marche (et pourquoi c’est différent)",
+    "subtitle": "Vous n’achetez pas une opinion — vous achetez de la traçabilité : données, sources, logique.",
+    "c1": { "title": "Sans panique", "desc": "Pas de peur. Juste des chiffres et du contexte." },
+    "c2": { "title": "Sans astuces", "desc": "Pas de promesse facile. Pas de “secret”. Une méthode." },
+    "c3": { "title": "Sans abonnement", "desc": "Achat unique. Mises à jour incluses. À vie." },
+    "quote": "« Les chiffres ne mentent pas. Seuls les titres. »"
+  },
+  "testi": {
+    "title": "Ce que disent nos lecteurs",
+    "subtitle": "Clarté. Autonomie. Décisions basées sur les données.",
+    "t1": { "quote": "« J’étais sceptique… puis j’ai vu : c’est différent. Des faits et des sources vérifiables. »", "name": "— <strong>Carlos M.</strong>, São Paulo" },
+    "t2": { "quote": "« L’analyse de l’argent vaut à elle seule l’achat. COMEX, LBMA, Shanghai : enfin clair. »", "name": "— <strong>Roberto S.</strong>, Rio de Janeiro" },
+    "t3": { "quote": "« Les scénarios du dollar donnent des chiffres concrets, pas de la peur. »", "name": "— <strong>Maria L.</strong>, Belo Horizonte" },
+    "t4": { "quote": "« L’analyse du lithium est arrivée au bon moment. Des faits au lieu du hype. »", "name": "— <strong>Fernando R.</strong>, Curitiba" }
+  },
+  "guarantee": {
+    "title": "Garantie inconditionnelle de 7 jours",
+    "desc": "Lisez. Vérifiez. Si ça ne vous convient pas : remboursement. Sans questions."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Réponses rapides.",
+    "q1": { "q": "Comment je reçois l’accès ?", "a": "Immédiatement après l’achat. Vous recevez un lien vers votre coffre personnel." },
+    "q2": { "q": "C’est un abonnement ?", "a": "Non. Achat unique. Aucun frais mensuel. Aucun coût caché." },
+    "q3": { "q": "Et les futures documentations ?", "a": "Ajoutées automatiquement. Sans coût supplémentaire. À vie." },
+    "q4": { "q": "Je peux lire sur mobile ?", "a": "Oui. Tous les appareils. Format PDF." },
+    "q5": { "q": "C’est du conseil en investissement ?", "a": "Non. Uniquement éducation et information. Vos décisions vous appartiennent." }
+  },
+  "final": { "title": "Accès à vie pour 25 €", "sub": "Offre active — se termine quand le timer expire." },
+  "sticky": { "label": "Aujourd’hui", "cta": "Obtenir l’accès" },
+  "footer": { "disclaimer": "À des fins éducatives uniquement. Ceci n’est pas un conseil en investissement." }
+}
 
