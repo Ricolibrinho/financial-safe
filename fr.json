@@ -36,6 +36,9 @@
     "nowLabel": "Votre prix",
     "micro": "Garantie 7 jours satisfait ou remboursé."
   },
+  "valor": {
+    "23 €"
+  },
   "cta": {
     "primary": "Obtenir l’accès à vie maintenant",
     "secondary": "Accès à vie pour 23 €",
