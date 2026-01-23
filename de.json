@@ -69,10 +69,10 @@
   "testi": {
     "title": "Was Leser sagen",
     "subtitle": "Klarheit. Eigenständigkeit. Datenbasierte Entscheidungen.",
-    "t1": { "quote": "„Ich war skeptisch… nach der ersten Doku war klar: Das ist anders. Nur Fakten und prüfbare Quellen.“", "name": "— <strong>Carlos M.</strong>, São Paulo" },
-    "t2": { "quote": "„Allein die Silber-Analyse ist es wert. Endlich verstehe ich COMEX, LBMA und Shanghai.“", "name": "— <strong>Roberto S.</strong>, Rio de Janeiro" },
-    "t3": { "quote": "„Die Dollar-Szenarien geben konkrete Zahlen statt Panik. Jetzt entscheide ich informiert.“", "name": "— <strong>Maria L.</strong>, Belo Horizonte" },
-    "t4": { "quote": "„Die Lithium-Analyse kam genau zur richtigen Zeit. Fakten statt Hype.“", "name": "— <strong>Fernando R.</strong>, Curitiba" }
+    "t1": { "quote": "„Ich war skeptisch… nach der ersten Doku war klar: Das ist anders. Nur Fakten und prüfbare Quellen.“", "name": "— <strong>Paul M.</strong>, Berlin" },
+    "t2": { "quote": "„Allein die Silber-Analyse ist es wert. Endlich verstehe ich COMEX, LBMA und Shanghai.“", "name": "— <strong>Ben S.</strong>, Frankfurt am Main" },
+    "t3": { "quote": "„Die Dollar-Szenarien geben konkrete Zahlen statt Panik. Jetzt entscheide ich informiert.“", "name": "— <strong>Sofie L.</strong>, Stuttgart" },
+    "t4": { "quote": "„Die Lithium-Analyse kam genau zur richtigen Zeit. Fakten statt Hype.“", "name": "— <strong>Jonas R.</strong>, Düsseldorf" }
   },
   "guarantee": {
     "title": "7-Tage-Geld-zurück-Garantie",
