@@ -38,9 +38,9 @@
   },
   "cta": {
     "primary": "Jetzt lebenslangen Zugang sichern",
-    "secondary": "Lebenslangen Zugang für 25 € sichern",
+    "secondary": "Lebenslangen Zugang für 26 € sichern",
     "tertiary": "Jetzt in den Tresor",
-    "afterTesti": "Lebenslangen Zugang für 25 € sichern",
+    "afterTesti": "Lebenslangen Zugang für 26 € sichern",
     "guaranteeCta": "Ohne Risiko testen",
     "final": "Jetzt sichern"
   },
@@ -87,7 +87,7 @@
     "q4": { "q": "Kann ich am Handy lesen?", "a": "Ja. Auf allen Geräten. PDF-Format." },
     "q5": { "q": "Ist das Investment-Beratung?", "a": "Nein. Nur Bildung und Information. Ihre Entscheidungen sind Ihre Verantwortung." }
   },
-  "final": { "title": "Lebenslanger Zugang für 25 €", "sub": "Angebot aktiv — endet, wenn der Timer abläuft." },
+  "final": { "title": "Lebenslanger Zugang für 26 €", "sub": "Angebot aktiv — endet, wenn der Timer abläuft." },
   "sticky": { "label": "Heute", "cta": "Zugang sichern" },
   "footer": { "disclaimer": "Nur zu Bildungszwecken. Keine Anlageberatung." }
 }
