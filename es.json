@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "lang": "es",
+    "htmlLang": "es",
+    "title": "El Cofre de Análisis — Acceso de por vida",
+    "description": "Acceso completo a todas las documentaciones del canal. Una compra. Acceso de por vida. Los hechos detrás de los titulares."
+  },
+  "checkoutUrl": "https://pay.hotmart.com/C104030096C?checkoutMode=10",
+  "countdown": { "hours": 2, "endText": "FINALIZADO" },
+  "brand": { "name": "El Cofre de Análisis" },
+  "top": {
+    "social": "<strong>+1.200</strong> inversores ya tienen acceso",
+    "ctaMini": "Asegurar acceso"
+  },
+  "hero": {
+    "kickerChip": "Compra única • Acceso de por vida",
+    "kickerMuted": "Sin suscripción • Sin upsell",
+    "h1": "Los hechos detrás de los titulares.",
+    "lead": "Acceso completo a las documentaciones del canal: Litio, Venezuela, Plata, China, Dólar. Datos, fuentes y conexiones — sin pánico, sin trucos."
+  },
+  "urgency": {
+    "badge": "OFERTA ACTIVA",
+    "copy": "El precio promocional termina en",
+    "hint": "Después se aplicará el precio normal."
+  },
+  "trust": {
+    "pay": "Pago 100% seguro",
+    "access": "Acceso inmediato",
+    "pdf": "PDF en cualquier dispositivo"
+  },
+  "price": {
+    "today": "Tu precio hoy",
+    "total": "Valor total",
+    "guarantee": "Garantía (días)",
+    "totalLabel": "Valor total",
+    "nowLabel": "Tu precio",
+    "micro": "Garantía incondicional de 7 días."
+  },
+  "valor": "$9,70",
+  "cta": {
+    "primary": "Asegura acceso de por vida ahora",
+    "secondary": "Acceso de por vida por $9,70",
+    "tertiary": "Entrar al Cofre ahora",
+    "afterTesti": "Acceso de por vida por $9,70",
+    "guaranteeCta": "Probar sin riesgo",
+    "final": "Asegurar ahora"
+  },
+  "card": {
+    "title": "Todo lo que recibes (ahora + futuro)",
+    "subtitle": "7 documentaciones + futuras actualizaciones automáticas"
+  },
+  "receive": {
+    "item1": "<strong>NUEVO:</strong> Análisis del Litio — 329 millones de toneladas descubiertas en Canadá — $36",
+    "item2": "Documentación Venezuela — El playbook detrás del cambio de régimen — $36",
+    "item3": "Análisis de la Plata — Por qué los inventarios están desapareciendo — $36",
+    "item4": "Cronograma China-Dólar — El plan de 24 meses — $36",
+    "item5": "Escenarios del Dólar — ¿Qué ocurre con −10/−20/−30%? — $36",
+    "item6": "Análisis del Colapso Económico — Los 5 pilares de la destrucción — $36",
+    "item7": "Guía de Diversificación — Consideraciones prácticas — $36",
+    "future": "<strong>Todas las documentaciones futuras</strong> — sin precio"
+  },
+  "why": {
+    "title": "Por qué funciona (y por qué es diferente)",
+    "subtitle": "No compras opiniones — compras trazabilidad: datos, fuentes y lógica.",
+    "c1": { "title": "Sin pánico", "desc": "Sin alarmismo financiero. Solo cifras y contexto." },
+    "c2": { "title": "Sin trucos", "desc": "Sin promesas fáciles. Sin “secretos”. Solo método." },
+    "c3": { "title": "Sin suscripción", "desc": "Compra única. Actualizaciones incluidas. Para siempre." },
+    "quote": "«Los números no mienten. Solo los titulares.»"
+  },
+  "testi": {
+    "title": "Lo que dicen nuestros lectores",
+    "subtitle": "Claridad. Autonomía. Decisiones basadas en datos.",
+    "t1": { "quote": "«Era escéptico… después de la primera documentación lo entendí: esto es diferente. Solo hechos y fuentes verificables.»", "name": "— <strong>Pablo M.</strong>, Madrid" },
+    "t2": { "quote": "«Solo el análisis de la plata ya vale la inversión. Finalmente entendí COMEX, LBMA y Shanghái.»", "name": "— <strong>Bruno S.</strong>, Barcelona" },
+    "t3": { "quote": "«Los escenarios del dólar me dieron números concretos, no miedo. Ahora decido informado.»", "name": "— <strong>Sofía L.</strong>, Valencia" },
+    "t4": { "quote": "«El análisis del litio llegó en el momento justo. Hechos en lugar de hype.»", "name": "— <strong>Javier R.</strong>, Sevilla" }
+  },
+  "guarantee": {
+    "title": "Garantía incondicional de 7 días",
+    "desc": "Lee. Verifica. Si no te convence, te devolvemos el dinero. Sin preguntas."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Respuestas rápidas.",
+    "q1": { "q": "¿Cómo recibo el acceso?", "a": "Inmediatamente después de la compra. Recibes un enlace a tu Cofre personal." },
+    "q2": { "q": "¿Es una suscripción?", "a": "No. Compra única. Sin mensualidades ni costes ocultos." },
+    "q3": { "q": "¿Y las documentaciones futuras?", "a": "Se liberan automáticamente. Sin coste adicional. De por vida." },
+    "q4": { "q": "¿Puedo leerlo en el móvil?", "a": "Sí. En todos los dispositivos. Formato PDF." },
+    "q5": { "q": "¿Esto es asesoría de inversión?", "a": "No. Solo educación e información. Tus decisiones son tuyas." }
+  },
+  "final": {
+    "title": "Acceso de por vida por $9,70",
+    "sub": "Oferta activa — termina cuando el contador llegue a cero."
+  },
+  "sticky": {
+    "label": "Hoy",
+    "cta": "Asegurar acceso"
+  },
+  "footer": {
+    "disclaimer": "Solo con fines educativos. No constituye asesoramiento de inversión."
+  }
+}
