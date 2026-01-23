@@ -1,6 +1,6 @@
 (() => {
   const CONFIG = {
-    defaultLang: "pt",
+    defaultLang: "de",
     langStorageKey: "cofre_lang_v2",
     countdownStoragePrefix: "cofre_countdown_end_v2_", // + lang
     i18nPath: ".", // pasta dos JSON
@@ -12,7 +12,7 @@
   function getLangFromUrl() {
     const url = new URL(window.location.href);
     const lang = (url.searchParams.get("lang") || "").toLowerCase();
-    return ["pt", "fr", "de"].includes(lang) ? lang : null;
+    return ["pt", "fr", "de", "es"].includes(lang) ? lang : null;
   }
 
   function setTextSmart(el, value) {
