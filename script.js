@@ -3,7 +3,7 @@
     defaultLang: "pt",
     langStorageKey: "cofre_lang_v2",
     countdownStoragePrefix: "cofre_countdown_end_v2_", // + lang
-    i18nPath: "/i18n", // pasta dos JSON
+    i18nPath: ".", // pasta dos JSON
   };
 
   const $ = (sel, root = document) => root.querySelector(sel);
