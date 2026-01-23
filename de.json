@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "lang": "de",
+    "htmlLang": "de",
+    "title": "Der Analyse-Tresor — Lebenslanger Zugang",
+    "description": "Voller Zugriff auf alle Dokumentationen des Kanals. Ein Kauf. Lebenslanger Zugriff. Die Fakten hinter den Schlagzeilen."
+  },
+  "checkoutUrl": "https://SEU-CHECKOUT-DE.com",
+  "countdown": { "hours": 2, "endText": "ABGELAUFEN" },
+  "brand": { "name": "Der Analyse-Tresor" },
+  "top": {
+    "social": "<strong>+1.200</strong> Investoren haben bereits Zugriff",
+    "ctaMini": "Zugang sichern"
+  },
+  "hero": {
+    "kickerChip": "Einmaliger Kauf • Lebenslanger Zugang",
+    "kickerMuted": "Kein Abo • Kein Upsell",
+    "h1": "Die Fakten hinter den Schlagzeilen.",
+    "lead": "Voller Zugriff auf die Kanal-Dokumentationen: Lithium, Venezuela, Silber, China, Dollar. Daten, Quellen und Zusammenhänge — ohne Panik, ohne Tricks."
+  },
+  "urgency": {
+    "badge": "ANGEBOT AKTIV",
+    "copy": "Aktionspreis endet in",
+    "hint": "Danach gilt wieder der Normalpreis."
+  },
+  "trust": {
+    "pay": "100% sichere Zahlung",
+    "access": "Sofortiger Zugriff",
+    "pdf": "PDF auf jedem Gerät"
+  },
+  "price": {
+    "today": "Ihr Preis heute",
+    "total": "Gesamtwert",
+    "guarantee": "Garantie (Tage)",
+    "totalLabel": "Gesamtwert",
+    "nowLabel": "Ihr Preis",
+    "micro": "7-Tage-Geld-zurück-Garantie."
+  },
+  "cta": {
+    "primary": "Jetzt lebenslangen Zugang sichern",
+    "secondary": "Lebenslangen Zugang für 25 € sichern",
+    "tertiary": "Jetzt in den Tresor",
+    "afterTesti": "Lebenslangen Zugang für 25 € sichern",
+    "guaranteeCta": "Ohne Risiko testen",
+    "final": "Jetzt sichern"
+  },
+  "card": {
+    "title": "Alles, was Sie bekommen (jetzt + künftig)",
+    "subtitle": "7 Dokumentationen + künftige Updates automatisch"
+  },
+  "receive": {
+    "item1": "<strong>NEU:</strong> Lithium-Analyse — 329 Mio. Tonnen in Kanada entdeckt — 19 €",
+    "item2": "Venezuela-Dokumentation — Das Playbook hinter dem Regimewechsel — 19 €",
+    "item3": "Silber-Analyse — Warum die Bestände verschwinden — 19 €",
+    "item4": "China-Dollar-Zeitplan — Der 24-Monats-Plan — 19 €",
+    "item5": "Dollar-Szenarien — Was passiert bei −10/−20/−30%? — 19 €",
+    "item6": "Analyse des Wirtschaftskollapses — Die 5 Säulen der Zerstörung — 19 €",
+    "item7": "Diversifikations-Guide — Praktische Überlegungen — 19 €",
+    "future": "<strong>Alle zukünftigen Dokumentationen</strong> — unbezahlbar"
+  },
+  "why": {
+    "title": "Warum es wirkt (und warum es anders ist)",
+    "subtitle": "Sie kaufen keine Meinung — Sie kaufen Nachvollziehbarkeit: Daten, Quellen, Logik.",
+    "c1": { "title": "Keine Panik", "desc": "Kein Finanz-Alarmismus. Nur Zahlen und Kontext." },
+    "c2": { "title": "Keine Tricks", "desc": "Keine schnellen Versprechen. Kein „Geheimnis“. Nur Methode." },
+    "c3": { "title": "Kein Abo", "desc": "Einmal zahlen. Updates inklusive. Für immer." },
+    "quote": "„Zahlen lügen nicht. Nur Schlagzeilen.“"
+  },
+  "testi": {
+    "title": "Was Leser sagen",
+    "subtitle": "Klarheit. Eigenständigkeit. Datenbasierte Entscheidungen.",
+    "t1": { "quote": "„Ich war skeptisch… nach der ersten Doku war klar: Das ist anders. Nur Fakten und prüfbare Quellen.“", "name": "— <strong>Carlos M.</strong>, São Paulo" },
+    "t2": { "quote": "„Allein die Silber-Analyse ist es wert. Endlich verstehe ich COMEX, LBMA und Shanghai.“", "name": "— <strong>Roberto S.</strong>, Rio de Janeiro" },
+    "t3": { "quote": "„Die Dollar-Szenarien geben konkrete Zahlen statt Panik. Jetzt entscheide ich informiert.“", "name": "— <strong>Maria L.</strong>, Belo Horizonte" },
+    "t4": { "quote": "„Die Lithium-Analyse kam genau zur richtigen Zeit. Fakten statt Hype.“", "name": "— <strong>Fernando R.</strong>, Curitiba" }
+  },
+  "guarantee": {
+    "title": "7-Tage-Geld-zurück-Garantie",
+    "desc": "Lesen. Prüfen. Wenn es für Sie keinen Sinn ergibt: Rückerstattung. Ohne Fragen."
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Kurz und klar.",
+    "q1": { "q": "Wie erhalte ich Zugriff?", "a": "Sofort nach dem Kauf. Sie erhalten einen Link zu Ihrem persönlichen Tresor." },
+    "q2": { "q": "Ist das ein Abo?", "a": "Nein. Einmaliger Kauf. Keine Monatsgebühr. Keine versteckten Kosten." },
+    "q3": { "q": "Und künftige Dokumentationen?", "a": "Werden automatisch freigeschaltet. Ohne Zusatzkosten. Für immer." },
+    "q4": { "q": "Kann ich am Handy lesen?", "a": "Ja. Auf allen Geräten. PDF-Format." },
+    "q5": { "q": "Ist das Investment-Beratung?", "a": "Nein. Nur Bildung und Information. Ihre Entscheidungen sind Ihre Verantwortung." }
+  },
+  "final": { "title": "Lebenslanger Zugang für 25 €", "sub": "Angebot aktiv — endet, wenn der Timer abläuft." },
+  "sticky": { "label": "Heute", "cta": "Zugang sichern" },
+  "footer": { "disclaimer": "Nur zu Bildungszwecken. Keine Anlageberatung." }
+}
+
