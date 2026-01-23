@@ -38,9 +38,9 @@
   },
   "cta": {
     "primary": "Obtenir l’accès à vie maintenant",
-    "secondary": "Accès à vie pour 25 €",
+    "secondary": "Accès à vie pour 23 €",
     "tertiary": "Entrer dans le Coffre",
-    "afterTesti": "Accès à vie pour 25 €",
+    "afterTesti": "Accès à vie pour 23 €",
     "guaranteeCta": "Tester sans risque",
     "final": "Obtenir maintenant"
   },
@@ -87,7 +87,7 @@
     "q4": { "q": "Je peux lire sur mobile ?", "a": "Oui. Tous les appareils. Format PDF." },
     "q5": { "q": "C’est du conseil en investissement ?", "a": "Non. Uniquement éducation et information. Vos décisions vous appartiennent." }
   },
-  "final": { "title": "Accès à vie pour 25 €", "sub": "Offre active — se termine quand le timer expire." },
+  "final": { "title": "Accès à vie pour 23 €", "sub": "Offre active — se termine quand le timer expire." },
   "sticky": { "label": "Aujourd’hui", "cta": "Obtenir l’accès" },
   "footer": { "disclaimer": "À des fins éducatives uniquement. Ceci n’est pas un conseil en investissement." }
 }
