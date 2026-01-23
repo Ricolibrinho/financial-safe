@@ -49,13 +49,13 @@
     "subtitle": "7 documentations + mises à jour futures automatiques"
   },
   "receive": {
-    "item1": "<strong>NOUVEAU :</strong> Analyse du lithium — 329 millions de tonnes au Canada — 19 €",
-    "item2": "Dossier Venezuela — Le playbook du changement de régime — 19 €",
-    "item3": "Analyse de l’argent — Pourquoi les stocks disparaissent — 19 €",
-    "item4": "Chronologie Chine-Dollar — Plan sur 24 mois — 19 €",
-    "item5": "Scénarios du dollar — Que se passe-t-il à −10/−20/−30% ? — 19 €",
-    "item6": "Analyse de l’effondrement économique — Les 5 piliers — 19 €",
-    "item7": "Guide de diversification — Considérations pratiques — 19 €",
+    "item1": "<strong>NOUVEAU :</strong> Analyse du lithium — 329 millions de tonnes au Canada — 36 €",
+    "item2": "Dossier Venezuela — Le playbook du changement de régime — 36 €",
+    "item3": "Analyse de l’argent — Pourquoi les stocks disparaissent — 36 €",
+    "item4": "Chronologie Chine-Dollar — Plan sur 24 mois — 36 €",
+    "item5": "Scénarios du dollar — Que se passe-t-il à −10/−20/−30% ? — 36 €",
+    "item6": "Analyse de l’effondrement économique — Les 5 piliers — 36 €",
+    "item7": "Guide de diversification — Considérations pratiques — 36 €",
     "future": "<strong>Toutes les futures documentations</strong> — inestimable"
   },
   "why": {
@@ -69,10 +69,10 @@
   "testi": {
     "title": "Ce que disent nos lecteurs",
     "subtitle": "Clarté. Autonomie. Décisions basées sur les données.",
-    "t1": { "quote": "« J’étais sceptique… puis j’ai vu : c’est différent. Des faits et des sources vérifiables. »", "name": "— <strong>Carlos M.</strong>, São Paulo" },
-    "t2": { "quote": "« L’analyse de l’argent vaut à elle seule l’achat. COMEX, LBMA, Shanghai : enfin clair. »", "name": "— <strong>Roberto S.</strong>, Rio de Janeiro" },
-    "t3": { "quote": "« Les scénarios du dollar donnent des chiffres concrets, pas de la peur. »", "name": "— <strong>Maria L.</strong>, Belo Horizonte" },
-    "t4": { "quote": "« L’analyse du lithium est arrivée au bon moment. Des faits au lieu du hype. »", "name": "— <strong>Fernando R.</strong>, Curitiba" }
+    "t1": { "quote": "« J’étais sceptique… puis j’ai vu : c’est différent. Des faits et des sources vérifiables. »", "name": "— <strong>Jean M.</strong>, Lyom" },
+    "t2": { "quote": "« L’analyse de l’argent vaut à elle seule l’achat. COMEX, LBMA, Shanghai : enfin clair. »", "name": "— <strong>Michel S.</strong>, Marselha" },
+    "t3": { "quote": "« Les scénarios du dollar donnent des chiffres concrets, pas de la peur. »", "name": "— <strong>Jade G.</strong>, Colmar" },
+    "t4": { "quote": "« L’analyse du lithium est arrivée au bon moment. Des faits au lieu du hype. »", "name": "— <strong>Arthur R.</strong>, Nice" }
   },
   "guarantee": {
     "title": "Garantie inconditionnelle de 7 jours",
