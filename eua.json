@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "lang": "en",
+    "htmlLang": "en",
+    "title": "The Analysis Vault — Lifetime Access",
+    "description": "Full access to all channel documentations. One purchase. Lifetime access. The facts behind the headlines."
+  },
+  "checkoutUrl": "https://pay.hotmart.com/C104030096C?checkoutMode=10",
+  "countdown": { "hours": 2, "endText": "EXPIRED" },
+  "brand": { "name": "The Analysis Vault" },
+  "top": {
+    "social": "<strong>+1,200</strong> investors already have access",
+    "ctaMini": "Secure access"
+  },
+  "hero": {
+    "kickerChip": "One-time purchase • Lifetime access",
+    "kickerMuted": "No subscription • No upsell",
+    "h1": "The facts behind the headlines.",
+    "lead": "Full access to the channel’s documentations: Lithium, Venezuela, Silver, China, Dollar. Data, sources, and connections — no panic, no tricks."
+  },
+  "urgency": {
+    "badge": "OFFER ACTIVE",
+    "copy": "Promotional price ends in",
+    "hint": "After that, the regular price applies."
+  },
+  "trust": {
+    "pay": "100% secure payment",
+    "access": "Instant access",
+    "pdf": "PDF on any device"
+  },
+  "price": {
+    "today": "Your price today",
+    "total": "Total value",
+    "guarantee": "Guarantee (days)",
+    "totalLabel": "Total value",
+    "nowLabel": "Your price",
+    "micro": "7-day money-back guarantee."
+  },
+  "valor": "26 €",
+  "valor-all": "257 €",
+  "cta": {
+    "primary": "Secure lifetime access now",
+    "secondary": "Get lifetime access for €26",
+    "tertiary": "Enter the vault now",
+    "afterTesti": "Get lifetime access for €26",
+    "guaranteeCta": "Try it risk-free",
+    "final": "Secure now"
+  },
+  "card": {
+    "title": "Everything you get (now + future)",
+    "subtitle": "7 documentations + future updates unlocked automatically"
+  },
+  "receive": {
+    "item1": "<strong>NEW:</strong> Lithium Analysis — 329M tons discovered in Canada — €36",
+    "item2": "Venezuela Documentation — The playbook behind regime change — €36",
+    "item3": "Silver Analysis — Why inventories are disappearing — €36",
+    "item4": "China–Dollar Timeline — The 24-month plan — €36",
+    "item5": "Dollar Scenarios — What happens at −10/−20/−30%? — €36",
+    "item6": "Economic Collapse Analysis — The 5 pillars of destruction — €36",
+    "item7": "Diversification Guide — Practical considerations — €36",
+    "future": "<strong>All future documentations</strong> — priceless"
+  },
+  "why": {
+    "title": "Why it works (and why it’s different)",
+    "subtitle": "You’re not buying an opinion — you’re buying traceability: data, sources, logic.",
+    "c1": { "title": "No panic", "desc": "No financial alarmism. Just numbers and context." },
+    "c2": { "title": "No tricks", "desc": "No quick promises. No “secrets”. Just method." },
+    "c3": { "title": "No subscription", "desc": "Pay once. Updates included. Forever." },
+    "quote": "“Numbers don’t lie. Headlines do.”"
+  },
+  "testi": {
+    "title": "What readers say",
+    "subtitle": "Clarity. Independence. Data-driven decisions.",
+    "t1": { "quote": "“I was skeptical… after the first document, it was clear: this is different. Just facts and verifiable sources.”", "name": "— <strong>Paul M.</strong>, Berlin" },
+    "t2": { "quote": "“The silver analysis alone is worth it. I finally understand COMEX, LBMA, and Shanghai.”", "name": "— <strong>Ben S.</strong>, Frankfurt am Main" },
+    "t3": { "quote": "“The dollar scenarios provide concrete numbers instead of panic. Now I decide with confidence.”", "name": "— <strong>Sofie L.</strong>, Stuttgart" },
+    "t4": { "quote": "“The lithium analysis came at exactly the right time. Facts instead of hype.”", "name": "— <strong>Jonas R.</strong>, Düsseldorf" }
+  },
+  "guarantee": {
+    "title": "7-Day Money-Back Guarantee",
+    "desc": "Read it. Verify it. If it doesn’t make sense to you: full refund. No questions asked."
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Short and clear.",
+    "q1": { "q": "How do I get access?", "a": "Immediately after purchase. You’ll receive a link to your personal vault." },
+    "q2": { "q": "Is this a subscription?", "a": "No. One-time purchase. No monthly fee. No hidden costs." },
+    "q3": { "q": "What about future documentations?", "a": "Unlocked automatically. No additional cost. Forever." },
+    "q4": { "q": "Can I read it on my phone?", "a": "Yes. On all devices. PDF format." },
+    "q5": { "q": "Is this investment advice?", "a": "No. Education and information only. Your decisions are your responsibility." }
+  },
+  "final": {
+    "title": "Lifetime access for €26",
+    "sub": "Offer active — ends when the timer runs out."
+  },
+  "sticky": {
+    "label": "Today",
+    "cta": "Secure access"
+  },
+  "footer": {
+    "disclaimer": "For educational purposes only. Not investment advice."
+  }
+}
