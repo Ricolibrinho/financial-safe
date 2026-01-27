@@ -36,13 +36,13 @@
     "nowLabel": "Your price",
     "micro": "7-day money-back guarantee."
   },
-  "valor": "26 €",
-  "valor-all": "257 €",
+  "valor": "$ 24,90",
+  "valor-all": "257 $",
   "cta": {
     "primary": "Secure lifetime access now",
-    "secondary": "Get lifetime access for €26",
+    "secondary": "Get lifetime access for $ 24,90",
     "tertiary": "Enter the vault now",
-    "afterTesti": "Get lifetime access for €26",
+    "afterTesti": "Get lifetime access for $ 24,90",
     "guaranteeCta": "Try it risk-free",
     "final": "Secure now"
   },
@@ -51,13 +51,13 @@
     "subtitle": "7 documentations + future updates unlocked automatically"
   },
   "receive": {
-    "item1": "<strong>NEW:</strong> Lithium Analysis — 329M tons discovered in Canada — €36",
-    "item2": "Venezuela Documentation — The playbook behind regime change — €36",
-    "item3": "Silver Analysis — Why inventories are disappearing — €36",
-    "item4": "China–Dollar Timeline — The 24-month plan — €36",
-    "item5": "Dollar Scenarios — What happens at −10/−20/−30%? — €36",
-    "item6": "Economic Collapse Analysis — The 5 pillars of destruction — €36",
-    "item7": "Diversification Guide — Practical considerations — €36",
+    "item1": "<strong>NEW:</strong> Lithium Analysis — 329M tons discovered in Canada — $36",
+    "item2": "Venezuela Documentation — The playbook behind regime change — $36",
+    "item3": "Silver Analysis — Why inventories are disappearing — $36",
+    "item4": "China–Dollar Timeline — The 24-month plan — $36",
+    "item5": "Dollar Scenarios — What happens at −10/−20/−30%? — $36",
+    "item6": "Economic Collapse Analysis — The 5 pillars of destruction — $36",
+    "item7": "Diversification Guide — Practical considerations — $36",
     "future": "<strong>All future documentations</strong> — priceless"
   },
   "why": {
@@ -90,7 +90,7 @@
     "q5": { "q": "Is this investment advice?", "a": "No. Education and information only. Your decisions are your responsibility." }
   },
   "final": {
-    "title": "Lifetime access for €26",
+    "title": "Lifetime access for $ 24,90",
     "sub": "Offer active — ends when the timer runs out."
   },
   "sticky": {
