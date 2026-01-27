@@ -12,7 +12,7 @@
   function getLangFromUrl() {
     const url = new URL(window.location.href);
     const lang = (url.searchParams.get("lang") || "").toLowerCase();
-    return ["pt", "fr", "de", "es"].includes(lang) ? lang : null;
+    return ["pt", "fr", "de", "es", "eua"].includes(lang) ? lang : null;
   }
 
   function setTextSmart(el, value) {
