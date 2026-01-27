@@ -36,13 +36,13 @@
     "nowLabel": "Your price",
     "micro": "7-day money-back guarantee."
   },
-  "valor": "$ 24,90",
+  "valor": "$ 19,70",
   "valor-all": "257 $",
   "cta": {
     "primary": "Secure lifetime access now",
-    "secondary": "Get lifetime access for $ 24,90",
+    "secondary": "Get lifetime access for $ 19,70",
     "tertiary": "Enter the vault now",
-    "afterTesti": "Get lifetime access for $ 24,90",
+    "afterTesti": "Get lifetime access for $ 19,70",
     "guaranteeCta": "Try it risk-free",
     "final": "Secure now"
   },
@@ -90,7 +90,7 @@
     "q5": { "q": "Is this investment advice?", "a": "No. Education and information only. Your decisions are your responsibility." }
   },
   "final": {
-    "title": "Lifetime access for $ 24,90",
+    "title": "Lifetime access for $ 19,70",
     "sub": "Offer active — ends when the timer runs out."
   },
   "sticky": {
