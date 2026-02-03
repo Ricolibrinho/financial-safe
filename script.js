@@ -1,5 +1,7 @@
 (() => {
-  const CONFIG = {
+  
+  const fixedLang = (typeof window !== 'undefined' && window.FIXED_LANG) ? String(window.FIXED_LANG) : null;
+const CONFIG = {
     defaultLang: "de",
     langStorageKey: "cofre_lang_v2",
     countdownStoragePrefix: "cofre_countdown_end_v2_", // + lang
@@ -221,7 +223,9 @@
 
     applyI18n(dict?.meta?.lang || lang, dict);
     updateMetaTags(dict);
-// checkout por idioma (no JSON)
+    updateMetaTags(dict);
+
+    // checkout por idioma (no JSON)
     const checkoutUrl = dict?.checkoutUrl;
     if (!checkoutUrl) {
       console.warn("checkoutUrl não definido no JSON do idioma.");
@@ -249,8 +253,10 @@
 
         applyI18n(next, nextDict);
         updateMetaTags(nextDict);
-// atualiza checkout para esse idioma
-        if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDict.checkoutUrl);
+        updateMetaTags(nextDict);
+
+        // atualiza checkout para esse idioma
+        if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDiccheckout);
 
         // reinicia countdown pro idioma
         initCountdown(next, nextDict?.countdown);

@@ -5,11 +5,15 @@
     "title": "Le Coffre d’Analyses — Accès à Vie",
     "og_title": "Le Coffre d’Analyses — Accès à Vie",
     "description": "Accès à vie à des analyses financières profondes et indépendantes."
-  }
-
+  },
   "checkoutUrl": "https://pay.hotmart.com/C103696780E?checkoutMode=10",
-  "countdown": { "hours": 2, "endText": "TERMINÉ" },
-  "brand": { "name": "Le Coffre d’Analyses" },
+  "countdown": {
+    "hours": 2,
+    "endText": "TERMINÉ"
+  },
+  "brand": {
+    "name": "Le Coffre d’Analyses"
+  },
   "top": {
     "social": "<strong>+1 200</strong> investisseurs ont déjà accès",
     "ctaMini": "Obtenir l’accès"
@@ -65,18 +69,39 @@
   "why": {
     "title": "Pourquoi ça marche (et pourquoi c’est différent)",
     "subtitle": "Vous n’achetez pas une opinion — vous achetez de la traçabilité : données, sources, logique.",
-    "c1": { "title": "Sans panique", "desc": "Pas de peur. Juste des chiffres et du contexte." },
-    "c2": { "title": "Sans astuces", "desc": "Pas de promesse facile. Pas de “secret”. Une méthode." },
-    "c3": { "title": "Sans abonnement", "desc": "Achat unique. Mises à jour incluses. À vie." },
+    "c1": {
+      "title": "Sans panique",
+      "desc": "Pas de peur. Juste des chiffres et du contexte."
+    },
+    "c2": {
+      "title": "Sans astuces",
+      "desc": "Pas de promesse facile. Pas de “secret”. Une méthode."
+    },
+    "c3": {
+      "title": "Sans abonnement",
+      "desc": "Achat unique. Mises à jour incluses. À vie."
+    },
     "quote": "« Les chiffres ne mentent pas. Seuls les titres. »"
   },
   "testi": {
     "title": "Ce que disent nos lecteurs",
     "subtitle": "Clarté. Autonomie. Décisions basées sur les données.",
-    "t1": { "quote": "« J’étais sceptique… puis j’ai vu : c’est différent. Des faits et des sources vérifiables. »", "name": "— <strong>Jean M.</strong>, Lyom" },
-    "t2": { "quote": "« L’analyse de l’argent vaut à elle seule l’achat. COMEX, LBMA, Shanghai : enfin clair. »", "name": "— <strong>Michel S.</strong>, Marselha" },
-    "t3": { "quote": "« Les scénarios du dollar donnent des chiffres concrets, pas de la peur. »", "name": "— <strong>Jade G.</strong>, Colmar" },
-    "t4": { "quote": "« L’analyse du lithium est arrivée au bon moment. Des faits au lieu du hype. »", "name": "— <strong>Arthur R.</strong>, Nice" }
+    "t1": {
+      "quote": "« J’étais sceptique… puis j’ai vu : c’est différent. Des faits et des sources vérifiables. »",
+      "name": "— <strong>Jean M.</strong>, Lyom"
+    },
+    "t2": {
+      "quote": "« L’analyse de l’argent vaut à elle seule l’achat. COMEX, LBMA, Shanghai : enfin clair. »",
+      "name": "— <strong>Michel S.</strong>, Marselha"
+    },
+    "t3": {
+      "quote": "« Les scénarios du dollar donnent des chiffres concrets, pas de la peur. »",
+      "name": "— <strong>Jade G.</strong>, Colmar"
+    },
+    "t4": {
+      "quote": "« L’analyse du lithium est arrivée au bon moment. Des faits au lieu du hype. »",
+      "name": "— <strong>Arthur R.</strong>, Nice"
+    }
   },
   "guarantee": {
     "title": "Garantie inconditionnelle de 7 jours",
@@ -85,14 +110,36 @@
   "faq": {
     "title": "Questions fréquentes",
     "subtitle": "Réponses rapides.",
-    "q1": { "q": "Comment je reçois l’accès ?", "a": "Immédiatement après l’achat. Vous recevez un lien vers votre coffre personnel." },
-    "q2": { "q": "C’est un abonnement ?", "a": "Non. Achat unique. Aucun frais mensuel. Aucun coût caché." },
-    "q3": { "q": "Et les futures documentations ?", "a": "Ajoutées automatiquement. Sans coût supplémentaire. À vie." },
-    "q4": { "q": "Je peux lire sur mobile ?", "a": "Oui. Tous les appareils. Format PDF." },
-    "q5": { "q": "C’est du conseil en investissement ?", "a": "Non. Uniquement éducation et information. Vos décisions vous appartiennent." }
+    "q1": {
+      "q": "Comment je reçois l’accès ?",
+      "a": "Immédiatement après l’achat. Vous recevez un lien vers votre coffre personnel."
+    },
+    "q2": {
+      "q": "C’est un abonnement ?",
+      "a": "Non. Achat unique. Aucun frais mensuel. Aucun coût caché."
+    },
+    "q3": {
+      "q": "Et les futures documentations ?",
+      "a": "Ajoutées automatiquement. Sans coût supplémentaire. À vie."
+    },
+    "q4": {
+      "q": "Je peux lire sur mobile ?",
+      "a": "Oui. Tous les appareils. Format PDF."
+    },
+    "q5": {
+      "q": "C’est du conseil en investissement ?",
+      "a": "Non. Uniquement éducation et information. Vos décisions vous appartiennent."
+    }
   },
-  "final": { "title": "Accès à vie pour 23 €", "sub": "Offre active — se termine quand le timer expire." },
-  "sticky": { "label": "Aujourd’hui", "cta": "Obtenir l’accès" },
-  "footer": { "disclaimer": "À des fins éducatives uniquement. Ceci n’est pas un conseil en investissement." }
+  "final": {
+    "title": "Accès à vie pour 23 €",
+    "sub": "Offre active — se termine quand le timer expire."
+  },
+  "sticky": {
+    "label": "Aujourd’hui",
+    "cta": "Obtenir l’accès"
+  },
+  "footer": {
+    "disclaimer": "À des fins éducatives uniquement. Ceci n’est pas un conseil en investissement."
+  }
 }
-

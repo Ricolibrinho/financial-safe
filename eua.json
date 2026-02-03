@@ -5,10 +5,15 @@
     "title": "The Analytics Vault — Lifetime Access",
     "og_title": "The Analytics Vault — Lifetime Access",
     "description": "Lifetime access to deep, independent financial analysis."
-  }
+  },
   "checkoutUrl": "https://pay.hotmart.com/L104114479K?checkoutMode=10",
-  "countdown": { "hours": 2, "endText": "EXPIRED" },
-  "brand": { "name": "The Analysis Vault" },
+  "countdown": {
+    "hours": 2,
+    "endText": "EXPIRED"
+  },
+  "brand": {
+    "name": "The Analysis Vault"
+  },
   "top": {
     "social": "<strong>+1,200</strong> investors already have access",
     "ctaMini": "Secure access"
@@ -64,18 +69,39 @@
   "why": {
     "title": "Why it works (and why it’s different)",
     "subtitle": "You’re not buying an opinion — you’re buying traceability: data, sources, logic.",
-    "c1": { "title": "No panic", "desc": "No financial alarmism. Just numbers and context." },
-    "c2": { "title": "No tricks", "desc": "No quick promises. No “secrets”. Just method." },
-    "c3": { "title": "No subscription", "desc": "Pay once. Updates included. Forever." },
+    "c1": {
+      "title": "No panic",
+      "desc": "No financial alarmism. Just numbers and context."
+    },
+    "c2": {
+      "title": "No tricks",
+      "desc": "No quick promises. No “secrets”. Just method."
+    },
+    "c3": {
+      "title": "No subscription",
+      "desc": "Pay once. Updates included. Forever."
+    },
     "quote": "“Numbers don’t lie. Headlines do.”"
   },
   "testi": {
     "title": "What readers say",
     "subtitle": "Clarity. Independence. Data-driven decisions.",
-    "t1": { "quote": "“I was skeptical… after the first document, it was clear: this is different. Just facts and verifiable sources.”", "name": "— <strong>Paul M.</strong>, Chicago" },
-    "t2": { "quote": "“The silver analysis alone is worth it. I finally understand COMEX, LBMA, and Shanghai.”", "name": "— <strong>Ben S.</strong>, San Diego" },
-    "t3": { "quote": "“The dollar scenarios provide concrete numbers instead of panic. Now I decide with confidence.”", "name": "— <strong>Sofie L.</strong>, Austin" },
-    "t4": { "quote": "“The lithium analysis came at exactly the right time. Facts instead of hype.”", "name": "— <strong>Jonas R.</strong>, New York City" }
+    "t1": {
+      "quote": "“I was skeptical… after the first document, it was clear: this is different. Just facts and verifiable sources.”",
+      "name": "— <strong>Paul M.</strong>, Chicago"
+    },
+    "t2": {
+      "quote": "“The silver analysis alone is worth it. I finally understand COMEX, LBMA, and Shanghai.”",
+      "name": "— <strong>Ben S.</strong>, San Diego"
+    },
+    "t3": {
+      "quote": "“The dollar scenarios provide concrete numbers instead of panic. Now I decide with confidence.”",
+      "name": "— <strong>Sofie L.</strong>, Austin"
+    },
+    "t4": {
+      "quote": "“The lithium analysis came at exactly the right time. Facts instead of hype.”",
+      "name": "— <strong>Jonas R.</strong>, New York City"
+    }
   },
   "guarantee": {
     "title": "7-Day Money-Back Guarantee",
@@ -84,11 +110,26 @@
   "faq": {
     "title": "FAQ",
     "subtitle": "Short and clear.",
-    "q1": { "q": "How do I get access?", "a": "Immediately after purchase. You’ll receive a link to your personal vault." },
-    "q2": { "q": "Is this a subscription?", "a": "No. One-time purchase. No monthly fee. No hidden costs." },
-    "q3": { "q": "What about future documentations?", "a": "Unlocked automatically. No additional cost. Forever." },
-    "q4": { "q": "Can I read it on my phone?", "a": "Yes. On all devices. PDF format." },
-    "q5": { "q": "Is this investment advice?", "a": "No. Education and information only. Your decisions are your responsibility." }
+    "q1": {
+      "q": "How do I get access?",
+      "a": "Immediately after purchase. You’ll receive a link to your personal vault."
+    },
+    "q2": {
+      "q": "Is this a subscription?",
+      "a": "No. One-time purchase. No monthly fee. No hidden costs."
+    },
+    "q3": {
+      "q": "What about future documentations?",
+      "a": "Unlocked automatically. No additional cost. Forever."
+    },
+    "q4": {
+      "q": "Can I read it on my phone?",
+      "a": "Yes. On all devices. PDF format."
+    },
+    "q5": {
+      "q": "Is this investment advice?",
+      "a": "No. Education and information only. Your decisions are your responsibility."
+    }
   },
   "final": {
     "title": "Lifetime access for $ 19,70",
