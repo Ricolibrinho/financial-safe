@@ -221,9 +221,7 @@
 
     applyI18n(dict?.meta?.lang || lang, dict);
     updateMetaTags(dict);
-    updateMetaTags(dict);
-
-    // checkout por idioma (no JSON)
+// checkout por idioma (no JSON)
     const checkoutUrl = dict?.checkoutUrl;
     if (!checkoutUrl) {
       console.warn("checkoutUrl não definido no JSON do idioma.");
@@ -251,9 +249,7 @@
 
         applyI18n(next, nextDict);
         updateMetaTags(nextDict);
-        updateMetaTags(nextDict);
-
-        // atualiza checkout para esse idioma
+// atualiza checkout para esse idioma
         if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDict.checkoutUrl);
 
         // reinicia countdown pro idioma
