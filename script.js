@@ -1,7 +1,5 @@
 (() => {
-  
-  const fixedLang = (typeof window !== 'undefined' && window.FIXED_LANG) ? String(window.FIXED_LANG) : null;
-const CONFIG = {
+  const CONFIG = {
     defaultLang: "de",
     langStorageKey: "cofre_lang_v2",
     countdownStoragePrefix: "cofre_countdown_end_v2_", // + lang
@@ -58,30 +56,6 @@ const CONFIG = {
     // ano
     const yearEl = $("[data-year]");
     if (yearEl) yearEl.textContent = String(new Date().getFullYear());
-  }
-
-  // Update <head> meta tags (WhatsApp/Facebook previews use these; crawlers don't run JS,
-  // so keep sensible defaults in HTML too).
-  function updateMetaTags(dict) {
-    const meta = dict?.meta;
-    if (!meta) return;
-
-    // <title>
-    if (meta.title) document.title = meta.title;
-
-    // description
-    const desc = document.querySelector('meta[name="description"]');
-    if (desc && meta.description) desc.setAttribute("content", meta.description);
-
-    // Open Graph
-    const ogTitle = document.querySelector('meta[property="og:title"]');
-    if (ogTitle && (meta.og_title || meta.title)) ogTitle.setAttribute("content", meta.og_title || meta.title);
-
-    const ogDesc = document.querySelector('meta[property="og:description"]');
-    if (ogDesc && meta.description) ogDesc.setAttribute("content", meta.description);
-
-    const ogUrl = document.querySelector('meta[property="og:url"]') || document.getElementById("og-url");
-    if (ogUrl) ogUrl.setAttribute("content", window.location.href);
   }
 
   function setAllButtonsToCheckout(checkoutUrl) {
@@ -222,8 +196,6 @@ const CONFIG = {
     localStorage.setItem(CONFIG.langStorageKey, dict?.meta?.lang || lang);
 
     applyI18n(dict?.meta?.lang || lang, dict);
-    updateMetaTags(dict);
-    updateMetaTags(dict);
 
     // checkout por idioma (no JSON)
     const checkoutUrl = dict?.checkoutUrl;
@@ -252,11 +224,9 @@ const CONFIG = {
         localStorage.setItem(CONFIG.langStorageKey, next);
 
         applyI18n(next, nextDict);
-        updateMetaTags(nextDict);
-        updateMetaTags(nextDict);
 
         // atualiza checkout para esse idioma
-        if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDiccheckout);
+        if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDict.checkoutUrl);
 
         // reinicia countdown pro idioma
         initCountdown(next, nextDict?.countdown);

@@ -2,18 +2,12 @@
   "meta": {
     "lang": "es",
     "htmlLang": "es",
-    "title": "El Cofre de Análisis — Acceso de por Vida",
-    "og_title": "El Cofre de Análisis — Acceso de por Vida",
-    "description": "Acceso de por vida a análisis financieros profundos e independientes."
+    "title": "El Cofre de Análisis — Acceso de por vida",
+    "description": "Acceso completo a todas las documentaciones del canal. Una compra. Acceso de por vida. Los hechos detrás de los titulares."
   },
   "checkoutUrl": "https://pay.hotmart.com/D104045996S",
-  "countdown": {
-    "hours": 2,
-    "endText": "FINALIZADO"
-  },
-  "brand": {
-    "name": "El Cofre de Análisis"
-  },
+  "countdown": { "hours": 2, "endText": "FINALIZADO" },
+  "brand": { "name": "El Cofre de Análisis" },
   "top": {
     "social": "<strong>+1.200</strong> inversores ya tienen acceso",
     "ctaMini": "Asegurar acceso"
@@ -69,39 +63,18 @@
   "why": {
     "title": "Por qué funciona (y por qué es diferente)",
     "subtitle": "No compras opiniones — compras trazabilidad: datos, fuentes y lógica.",
-    "c1": {
-      "title": "Sin pánico",
-      "desc": "Sin alarmismo financiero. Solo cifras y contexto."
-    },
-    "c2": {
-      "title": "Sin trucos",
-      "desc": "Sin promesas fáciles. Sin “secretos”. Solo método."
-    },
-    "c3": {
-      "title": "Sin suscripción",
-      "desc": "Compra única. Actualizaciones incluidas. Para siempre."
-    },
+    "c1": { "title": "Sin pánico", "desc": "Sin alarmismo financiero. Solo cifras y contexto." },
+    "c2": { "title": "Sin trucos", "desc": "Sin promesas fáciles. Sin “secretos”. Solo método." },
+    "c3": { "title": "Sin suscripción", "desc": "Compra única. Actualizaciones incluidas. Para siempre." },
     "quote": "«Los números no mienten. Solo los titulares.»"
   },
   "testi": {
     "title": "Lo que dicen nuestros lectores",
     "subtitle": "Claridad. Autonomía. Decisiones basadas en datos.",
-    "t1": {
-      "quote": "«Era escéptico… después de la primera documentación lo entendí: esto es diferente. Solo hechos y fuentes verificables.»",
-      "name": "— <strong>Pablo M.</strong>, Madrid"
-    },
-    "t2": {
-      "quote": "«Solo el análisis de la plata ya vale la inversión. Finalmente entendí COMEX, LBMA y Shanghái.»",
-      "name": "— <strong>Bruno S.</strong>, Barcelona"
-    },
-    "t3": {
-      "quote": "«Los escenarios del dólar me dieron números concretos, no miedo. Ahora decido informado.»",
-      "name": "— <strong>Sofía L.</strong>, Valencia"
-    },
-    "t4": {
-      "quote": "«El análisis del litio llegó en el momento justo. Hechos en lugar de hype.»",
-      "name": "— <strong>Javier R.</strong>, Sevilla"
-    }
+    "t1": { "quote": "«Era escéptico… después de la primera documentación lo entendí: esto es diferente. Solo hechos y fuentes verificables.»", "name": "— <strong>Pablo M.</strong>, Madrid" },
+    "t2": { "quote": "«Solo el análisis de la plata ya vale la inversión. Finalmente entendí COMEX, LBMA y Shanghái.»", "name": "— <strong>Bruno S.</strong>, Barcelona" },
+    "t3": { "quote": "«Los escenarios del dólar me dieron números concretos, no miedo. Ahora decido informado.»", "name": "— <strong>Sofía L.</strong>, Valencia" },
+    "t4": { "quote": "«El análisis del litio llegó en el momento justo. Hechos en lugar de hype.»", "name": "— <strong>Javier R.</strong>, Sevilla" }
   },
   "guarantee": {
     "title": "Garantía incondicional de 7 días",
@@ -110,26 +83,11 @@
   "faq": {
     "title": "Preguntas frecuentes",
     "subtitle": "Respuestas rápidas.",
-    "q1": {
-      "q": "¿Cómo recibo el acceso?",
-      "a": "Inmediatamente después de la compra. Recibes un enlace a tu Cofre personal."
-    },
-    "q2": {
-      "q": "¿Es una suscripción?",
-      "a": "No. Compra única. Sin mensualidades ni costes ocultos."
-    },
-    "q3": {
-      "q": "¿Y las documentaciones futuras?",
-      "a": "Se liberan automáticamente. Sin coste adicional. De por vida."
-    },
-    "q4": {
-      "q": "¿Puedo leerlo en el móvil?",
-      "a": "Sí. En todos los dispositivos. Formato PDF."
-    },
-    "q5": {
-      "q": "¿Esto es asesoría de inversión?",
-      "a": "No. Solo educación e información. Tus decisiones son tuyas."
-    }
+    "q1": { "q": "¿Cómo recibo el acceso?", "a": "Inmediatamente después de la compra. Recibes un enlace a tu Cofre personal." },
+    "q2": { "q": "¿Es una suscripción?", "a": "No. Compra única. Sin mensualidades ni costes ocultos." },
+    "q3": { "q": "¿Y las documentaciones futuras?", "a": "Se liberan automáticamente. Sin coste adicional. De por vida." },
+    "q4": { "q": "¿Puedo leerlo en el móvil?", "a": "Sí. En todos los dispositivos. Formato PDF." },
+    "q5": { "q": "¿Esto es asesoría de inversión?", "a": "No. Solo educación e información. Tus decisiones son tuyas." }
   },
   "final": {
     "title": "Acceso de por vida por $9,70",
