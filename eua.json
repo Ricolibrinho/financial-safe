@@ -71,10 +71,10 @@
   "testi": {
     "title": "What readers say",
     "subtitle": "Clarity. Independence. Data-driven decisions.",
-    "t1": { "quote": "“I was skeptical… after the first document, it was clear: this is different. Just facts and verifiable sources.”", "name": "— <strong>Paul M.</strong>, Berlin" },
-    "t2": { "quote": "“The silver analysis alone is worth it. I finally understand COMEX, LBMA, and Shanghai.”", "name": "— <strong>Ben S.</strong>, Frankfurt am Main" },
-    "t3": { "quote": "“The dollar scenarios provide concrete numbers instead of panic. Now I decide with confidence.”", "name": "— <strong>Sofie L.</strong>, Stuttgart" },
-    "t4": { "quote": "“The lithium analysis came at exactly the right time. Facts instead of hype.”", "name": "— <strong>Jonas R.</strong>, Düsseldorf" }
+    "t1": { "quote": "“I was skeptical… after the first document, it was clear: this is different. Just facts and verifiable sources.”", "name": "— <strong>Paul M.</strong>, Chicago" },
+    "t2": { "quote": "“The silver analysis alone is worth it. I finally understand COMEX, LBMA, and Shanghai.”", "name": "— <strong>Ben S.</strong>, San Diego" },
+    "t3": { "quote": "“The dollar scenarios provide concrete numbers instead of panic. Now I decide with confidence.”", "name": "— <strong>Sofie L.</strong>, Austin" },
+    "t4": { "quote": "“The lithium analysis came at exactly the right time. Facts instead of hype.”", "name": "— <strong>Jonas R.</strong>, New York City" }
   },
   "guarantee": {
     "title": "7-Day Money-Back Guarantee",
