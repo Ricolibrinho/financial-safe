@@ -2,9 +2,11 @@
   "meta": {
     "lang": "es",
     "htmlLang": "es",
-    "title": "El Cofre de Análisis — Acceso de por vida",
-    "description": "Acceso completo a todas las documentaciones del canal. Una compra. Acceso de por vida. Los hechos detrás de los titulares."
-  },
+    "title": "El Cofre de Análisis — Acceso de por Vida",
+    "og_title": "El Cofre de Análisis — Acceso de por Vida",
+    "description": "Acceso de por vida a análisis financieros profundos e independientes."
+  }
+
   "checkoutUrl": "https://pay.hotmart.com/D104045996S",
   "countdown": { "hours": 2, "endText": "FINALIZADO" },
   "brand": { "name": "El Cofre de Análisis" },
