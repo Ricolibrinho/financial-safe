@@ -2,9 +2,10 @@
   "meta": {
     "lang": "en",
     "htmlLang": "en",
-    "title": "The Analysis Vault — Lifetime Access",
-    "description": "Full access to all channel documentations. One purchase. Lifetime access. The facts behind the headlines."
-  },
+    "title": "The Analytics Vault — Lifetime Access",
+    "og_title": "The Analytics Vault — Lifetime Access",
+    "description": "Lifetime access to deep, independent financial analysis."
+  }
   "checkoutUrl": "https://pay.hotmart.com/L104114479K?checkoutMode=10",
   "countdown": { "hours": 2, "endText": "EXPIRED" },
   "brand": { "name": "The Analysis Vault" },
