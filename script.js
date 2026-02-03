@@ -179,7 +179,33 @@
     const timer = setInterval(tick, 250);
     tick();
   }
-
+  function updateMetaTags(dict) {
+    if (!dict?.meta) return;
+  
+    if (dict.meta.title) {
+      document.title = dict.meta.title;
+    }
+  
+    const desc = document.querySelector('meta[name="description"]');
+    if (desc && dict.meta.description) {
+      desc.setAttribute("content", dict.meta.description);
+    }
+  
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    if (ogTitle && dict.meta.og_title) {
+      ogTitle.setAttribute("content", dict.meta.og_title);
+    }
+  
+    const ogDesc = document.querySelector('meta[property="og:description"]');
+    if (ogDesc && dict.meta.description) {
+      ogDesc.setAttribute("content", dict.meta.description);
+    }
+  
+    const ogUrl = document.querySelector('meta[property="og:url"]');
+    if (ogUrl) {
+      ogUrl.setAttribute("content", window.location.href);
+    }
+  }
   async function init() {
     const urlLang = getLangFromUrl();
     const savedLang = localStorage.getItem(CONFIG.langStorageKey);
@@ -196,6 +222,7 @@
     localStorage.setItem(CONFIG.langStorageKey, dict?.meta?.lang || lang);
 
     applyI18n(dict?.meta?.lang || lang, dict);
+    updateMetaTags(dict);
 
     // checkout por idioma (no JSON)
     const checkoutUrl = dict?.checkoutUrl;
@@ -224,6 +251,8 @@
         localStorage.setItem(CONFIG.langStorageKey, next);
 
         applyI18n(next, nextDict);
+        updateMetaTags(nextDict);
+
 
         // atualiza checkout para esse idioma
         if (nextDict?.checkoutUrl) setAllButtonsToCheckout(nextDict.checkoutUrl);
