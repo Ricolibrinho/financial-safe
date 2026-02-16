@@ -5,7 +5,7 @@
     "title": "Le Coffre d’Analyses — Accès à vie",
     "description": "Accès complet à toutes les documentations de la chaîne. Un achat. Accès à vie. Les faits derrière les gros titres."
   },
-  "checkoutUrl": "https://pay.hotmart.com/C103696780E?checkoutMode=10",
+  "checkoutUrl": "https://pay.hotmart.com/F104470817A?checkoutMode=10",
   "countdown": { "hours": 2, "endText": "TERMINÉ" },
   "brand": { "name": "Le Coffre d’Analyses" },
   "top": {
@@ -93,3 +93,4 @@
   "sticky": { "label": "Aujourd’hui", "cta": "Obtenir l’accès" },
   "footer": { "disclaimer": "À des fins éducatives uniquement. Ceci n’est pas un conseil en investissement." }
 }
+
