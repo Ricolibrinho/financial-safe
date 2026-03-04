@@ -14,6 +14,14 @@
       }).catch(function(){});
     }
     t("pageview");
+    document.addEventListener("click",function(e){
+      var el=e.target.closest("a,button,[data-track]");
+      if(!el)return;
+      var meta={tag:el.tagName,text:(el.innerText||"").slice(0,80)};
+      if(el.href)meta.href=el.href;
+      if(el.dataset.track)meta.label=el.dataset.track;
+      t("click",meta);
+    });
     window.track=t;
   })();
   </script>
@@ -361,5 +369,6 @@
   <script src="./script.js" defer></script>
 <!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "228e7a70d3a14cdea19ceb8e2981d92b"}'></script><!-- Cloudflare Pages Analytics --></body>
 </html>
+
 
 
