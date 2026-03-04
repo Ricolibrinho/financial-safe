@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="pt-BR" data-lang="pt">
 <head>
+  <script>
+  (function(){
+    var S="https://ydaicnzqrisbhrvbbmcg.supabase.co/functions/v1/track-event";
+    var I="ba590a0a-3f59-4cbe-b0f6-32bbf6d0ab48";
+    var sid=localStorage.getItem("_sid")||Math.random().toString(36).slice(2);
+    localStorage.setItem("_sid",sid);
+    function t(type,meta){
+      fetch(S,{method:"POST",headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({site_id:I,event_type:type,page_url:location.href,
+          referrer:document.referrer,session_id:sid,metadata:meta||{}})
+      }).catch(function(){});
+    }
+    t("pageview");
+    window.track=t;
+  })();
+  </script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title data-i18n="meta.title">The Analytics Vault — Lifetime Access</title>
@@ -345,4 +361,5 @@
   <script src="./script.js" defer></script>
 <!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "228e7a70d3a14cdea19ceb8e2981d92b"}'></script><!-- Cloudflare Pages Analytics --></body>
 </html>
+
 
